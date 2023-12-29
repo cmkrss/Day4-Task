@@ -1,0 +1,62 @@
+{
+    "name": "Manikandan C",
+    "title": "Software Engineer",
+    "contact": {
+      "email": "cmkrss007@gmail.com",
+      "phone": "8809878909",
+      "address": "123 Main Street, City, India"
+    },
+    "summary": "practice software developer with a passion for web development and problem-solving.",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "title": "Student",
+        "company": "Guvi",
+        "location": "Nagercoil, India",
+        "dates": "2023 - Present",
+        "description": "Practicing web development."
+      },
+      {
+        "title": "Junior Developer",
+        "company": "RapiddataTechnologies",
+        "location": "Chennai, India",
+        "dates": "2022 - 2023",
+        "description": "Assisted in building and testing software applications."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science in Computer Science",
+        "institution": "College of Engineering, Guindy",
+        "location": "Chennai, India",
+        "dates": "2019 - 2022"
+      }
+    ],
+    "certifications": [
+      "Certified Web Developer (CWD)",
+      "Mendix Inrermeidate Certified Developer"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Tamil",
+        "proficiency": "Fluent"
+      }
+    ],
+    "interests": [
+      "Reading",
+      "Swimming",
+      "Youtube"
+    ]
+  }
+  
